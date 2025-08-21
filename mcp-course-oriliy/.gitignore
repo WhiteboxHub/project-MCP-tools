@@ -1,0 +1,12 @@
+.env
+*.json
+*.csv
+*.tsv
+*.jsonl
+*.jsonl.gz
+*.jsonl.bz2
+*.jsonl.xz
+
+
+venv/
+.venv/
